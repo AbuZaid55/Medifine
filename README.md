@@ -1,5 +1,5 @@
 
-# Medifine website for doctors
+# Medifine website for Doctors
 
 A simple website for doctors using html and css
 
@@ -7,7 +7,7 @@ A simple website for doctors using html and css
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![_C__Users_zaid7_Desktop_Programming____GitHub_Medifine_index html](https://github.com/AbuZaid55/Medifine/assets/115403447/e4ed0df0-e513-410c-83c3-09dd459ac5d7)
 
 
 ## 🔗 Links
